@@ -17,5 +17,5 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 		return (newNode);
 	}
 	else
-		return NULL;
+		return (NULL);
 }
